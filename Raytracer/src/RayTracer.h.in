@@ -5,4 +5,8 @@
 
 #include <iostream>
 
+#cmakedefine H_OS_WINDOWS
+
+#cmakedefine H_OS_LINUX
+
 // TODO: Reference additional headers your program requires here.
